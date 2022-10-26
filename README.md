@@ -8,6 +8,11 @@ SO THAT I can plan a trip accordingly
 
 ### Photo
 
+[link to photo](./assets/Screen%20Shot%202022-10-25%20at%2010.02.19%20PM.png)
+
+
+
+
 #### Overview
 
 This project is a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities.
@@ -35,3 +40,5 @@ Displays the following under current weather conditions:
 - Wind speed
 
 ###### URL to deployed WebPage
+
+https://marcielucke.github.io/weather-application/
